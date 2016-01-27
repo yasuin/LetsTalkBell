@@ -4,3 +4,5 @@ keys = dict(
     access_token =          'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
     access_token_secret =   'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
 )
+
+usr = "my_username"

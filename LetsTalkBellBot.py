@@ -1,7 +1,7 @@
 import tweepy
 import sys
 import os
-from keys import keys, usr
+from keys import keys, usr # create a keys file in the format of samplekeys
 
 consumer_key = keys['consumer_key']
 consumer_secret = keys['consumer_secret']
