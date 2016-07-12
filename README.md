@@ -1,4 +1,8 @@
 # Let's Talk Bell
 ## Twitter Bot
 
-A simple bot to retweet one of a list of hashtags using Twitter's Stream API. Requires a Twitter Developer account with OAuth.
+Update: No longer in development
+
+A simple bot to retweet one of a list of hashtags using Twitter's Stream API. Requires a Twitter [developer account](https://dev.twitter.com) with OAuth.
+
+To make a twitter app, please go [here](https://apps.twitter.com).
